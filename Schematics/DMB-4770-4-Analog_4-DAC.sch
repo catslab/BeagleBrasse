@@ -7718,30 +7718,30 @@ The board packages make special use of the following layers:&lt;p&gt;
 </classes>
 <parts>
 <part name="IC1" library="linear" deviceset="LMV324?*" device="M" value="LMV344"/>
-<part name="R1" library="divers" deviceset="RU" device="0805" value="120K"/>
-<part name="R2" library="divers" deviceset="RU" device="0805" value="120K"/>
+<part name="R1" library="divers" deviceset="RU" device="0805" value="102K"/>
+<part name="R2" library="divers" deviceset="RU" device="0805" value="102K"/>
 <part name="R3" library="divers" deviceset="RU" device="0805" value="25.5K"/>
 <part name="R4" library="divers" deviceset="RU" device="0805" value="25.5K"/>
 <part name="R5" library="divers" deviceset="RU" device="0805" value="500"/>
 <part name="JP1" library="jumper" deviceset="JP1E" device=""/>
 <part name="X1" library="con-phoenix-350" deviceset="1751316" device=""/>
 <part name="$1" library="signals" deviceset="VDG" device=""/>
-<part name="R6" library="divers" deviceset="RU" device="0805" value="120K"/>
-<part name="R7" library="divers" deviceset="RU" device="0805" value="120K"/>
+<part name="R6" library="divers" deviceset="RU" device="0805" value="102K"/>
+<part name="R7" library="divers" deviceset="RU" device="0805" value="102K"/>
 <part name="R8" library="divers" deviceset="RU" device="0805" value="25.5K"/>
 <part name="R9" library="divers" deviceset="RU" device="0805" value="25.5K"/>
 <part name="R10" library="divers" deviceset="RU" device="0805" value="500"/>
 <part name="JP2" library="jumper" deviceset="JP1E" device=""/>
 <part name="$2" library="signals" deviceset="VDG" device=""/>
-<part name="R11" library="divers" deviceset="RU" device="0805" value="120K"/>
-<part name="R12" library="divers" deviceset="RU" device="0805" value="120K"/>
+<part name="R11" library="divers" deviceset="RU" device="0805" value="102K"/>
+<part name="R12" library="divers" deviceset="RU" device="0805" value="102K"/>
 <part name="R13" library="divers" deviceset="RU" device="0805" value="25.5K"/>
 <part name="R14" library="divers" deviceset="RU" device="0805" value="25.5K"/>
 <part name="R15" library="divers" deviceset="RU" device="0805" value="500"/>
 <part name="JP3" library="jumper" deviceset="JP1E" device=""/>
 <part name="$3" library="signals" deviceset="VDG" device=""/>
-<part name="R16" library="divers" deviceset="RU" device="0805" value="120K"/>
-<part name="R17" library="divers" deviceset="RU" device="0805" value="120K"/>
+<part name="R16" library="divers" deviceset="RU" device="0805" value="102K"/>
+<part name="R17" library="divers" deviceset="RU" device="0805" value="102K"/>
 <part name="R18" library="divers" deviceset="RU" device="0805" value="25.5K"/>
 <part name="R19" library="divers" deviceset="RU" device="0805" value="25.5K"/>
 <part name="R20" library="divers" deviceset="RU" device="0805" value="500"/>
@@ -7772,14 +7772,14 @@ The board packages make special use of the following layers:&lt;p&gt;
 <part name="U1" library="Microchip_By_element14_Batch_1" deviceset="MCP4728-E/UN" device=""/>
 <part name="$11" library="signals" deviceset="V+3V3" device=""/>
 <part name="$12" library="signals" deviceset="VDG" device=""/>
-<part name="R23" library="divers" deviceset="RU" device="0805" value="20K"/>
-<part name="R24" library="divers" deviceset="RU" device="0805" value="80K"/>
-<part name="R25" library="divers" deviceset="RU" device="0805" value="20K"/>
-<part name="R26" library="divers" deviceset="RU" device="0805" value="80K"/>
-<part name="R27" library="divers" deviceset="RU" device="0805" value="20K"/>
-<part name="R28" library="divers" deviceset="RU" device="0805" value="80K"/>
-<part name="R29" library="divers" deviceset="RU" device="0805" value="20K"/>
-<part name="R30" library="divers" deviceset="RU" device="0805" value="80K"/>
+<part name="R23" library="divers" deviceset="RU" device="0805" value="82.5K"/>
+<part name="R24" library="divers" deviceset="RU" device="0805" value="330K"/>
+<part name="R25" library="divers" deviceset="RU" device="0805" value="82.5K"/>
+<part name="R26" library="divers" deviceset="RU" device="0805" value="330K"/>
+<part name="R27" library="divers" deviceset="RU" device="0805" value="82.5K"/>
+<part name="R28" library="divers" deviceset="RU" device="0805" value="330K"/>
+<part name="R29" library="divers" deviceset="RU" device="0805" value="82.5K"/>
+<part name="R30" library="divers" deviceset="RU" device="0805" value="330K"/>
 <part name="X2" library="con-phoenix-350" deviceset="1751316" device=""/>
 <part name="$13" library="signals" deviceset="VDG" device=""/>
 <part name="$14" library="signals" deviceset="VDG" device=""/>
