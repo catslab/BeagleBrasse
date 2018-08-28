@@ -9608,7 +9608,7 @@ http://catalog.tycoelectronics.com&lt;br&gt;
 For all RJ45 N and Z Series Models&lt;br&gt;
 Source: www.tycoelectronics.com .. ENG_DS_1654001_1099_RJ_L_0507.pdf</description>
 <wire x1="-7.527" y1="10.819" x2="7.527" y2="10.819" width="0.2032" layer="21"/>
-<wire x1="8.4455" y1="-5.5118" x2="-8.4455" y2="-5.5118" width="0.01" layer="21"/>
+<wire x1="8.4455" y1="-5.5118" x2="-8.4455" y2="-5.5118" width="0.01" layer="20"/>
 <wire x1="7.527" y1="-7.782" x2="-7.527" y2="-7.782" width="0.2032" layer="21"/>
 <wire x1="-7.527" y1="-7.782" x2="-7.527" y2="10.819" width="0.2032" layer="21"/>
 <wire x1="7.527" y1="10.819" x2="7.527" y2="-7.782" width="0.2032" layer="21"/>
@@ -14298,6 +14298,15 @@ http://www.fairchildsemi.com/ds/LM/LM7805.pdf</description>
 <wire x1="297.18" y1="246.38" x2="297.18" y2="251.46" width="0.1524" layer="91"/>
 <junction x="297.18" y="251.46"/>
 </segment>
+</net>
+<net name="N$15" class="0">
+<segment>
+<pinref part="R9" gate="G$1" pin="1"/>
+<pinref part="D9" gate="G$1" pin="A"/>
+<wire x1="137.16" y1="208.28" x2="137.16" y2="210.82" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="+12V" class="0">
 <segment>
 <pinref part="R9" gate="G$1" pin="2"/>
 <wire x1="137.16" y1="220.98" x2="137.16" y2="223.52" width="0.1524" layer="91"/>
@@ -14308,13 +14317,6 @@ http://www.fairchildsemi.com/ds/LM/LM7805.pdf</description>
 <wire x1="134.62" y1="175.26" x2="134.62" y2="170.18" width="0.1524" layer="91"/>
 <pinref part="X5" gate="-2" pin="KL"/>
 <wire x1="134.62" y1="170.18" x2="132.08" y2="170.18" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$15" class="0">
-<segment>
-<pinref part="R9" gate="G$1" pin="1"/>
-<pinref part="D9" gate="G$1" pin="A"/>
-<wire x1="137.16" y1="208.28" x2="137.16" y2="210.82" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="+3V3" class="0">
